@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto';font-size: 32px;
+}
+.centered {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-top: 0px;
+  }
+#idea
+{
+    height:20px;
+    width: 800px;
+    font-size:14pt;
+}
+input{
+    margin: 0%;
+    width: 100px;
+}
